@@ -39,5 +39,23 @@ for method in methods:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     #https://www.youtube.com/watch?v=T-0lZWYWE9Y&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=7
     
