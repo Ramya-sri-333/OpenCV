@@ -1,11 +1,14 @@
 import cv2
-
+#LOAD AN iMAGE
 img1 = cv2.imread(r"C:\Users\HariChukka\Downloads\47 Bhagavad Gita Quotes ideas in 2021 _ gita quotes, bhagavad gita, serve god.jpeg",-1)
-
+#RESIZE THE SIZE
 img1 = cv2.resize(img1,(300,400))
 
+#PROJECT THE OUTPUT
 cv2.imshow("a_man_with_glasses",img1)
 print(img1)
+
+#OUTPUT IN THE FORM OF ARRRAY/MATRIX
 print(img1.shape)
 ##
 
