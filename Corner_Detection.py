@@ -1,4 +1,4 @@
-###### corner detection
+###### corner detection in a chessboard
 
 import numpy as np
 import cv2
